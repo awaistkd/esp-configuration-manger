@@ -1,0 +1,13 @@
+{
+  "name": "ESP Configuration Manager",
+  "keywords": "wifi, wi-fi, config, manager",
+  "description": "ESP32 and ESP8266 configuration manager with a web portal",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/awaistkd/esp-configuration-manger.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "espressif",
+  "version": "0.1"
+}
